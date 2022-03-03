@@ -1,4 +1,4 @@
-### Olá, Seja bem vindo!! 😆👋
+### Olá, seja bem vindo!! 😆👋
 
 <!-- Remember that:  GitHub converts the README Markdown to HTML and renders it on GitHub. -->
 
