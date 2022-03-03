@@ -27,7 +27,7 @@
 
 ##  👨‍💻 Sobre mim: 
 
-##### Me chamo Dhiego Ferreira, tenho 20 anos e busco diariamente evoluir como programador backend. Sou curioso, amo aprender coisas novas e compartilhar conhecimentos já adquiridos. :) 
+##### Me chamo Dhiego Ferreira, tenho 20 anos e busco diariamente evoluir como programador backend. Sou curioso, amo aprender coisas novas e compartilhar conhecimentos já adquiridos.
    -  💻 Estagiário de Desenvolvimento de Software 
    -  <img src="https://i.ibb.co/9vnT1JX/LOGO.png" height="15" width="15">  &nbsp; Atualmente estudando e desenvolvendo projetos/trabalhos com a linguagem C# junto ao cabedal de ferramentas da plataforma .NET 
    
