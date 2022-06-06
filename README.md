@@ -34,7 +34,7 @@
    -->
 
 
-<h3> 🧰 Linguagens e Ferramentas </h3>
+<h3> 🧰 Caixa de Ferramentas </h3>
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt"CSharp" width="40" height="40" />&nbsp;&nbsp;
