@@ -3,7 +3,7 @@
 <!-- Remember that:  GitHub converts the README Markdown to HTML and renders it on GitHub. -->
 
 <div id="header" align="center">
-  <img src=https://i.pinimg.com/originals/d8/5d/f0/d85df08df1212c0f8b219e779c5ebc46.gif height="200" width="200" style="border-radius:60%" />
+  <img src=https://dotnet.microsoft.com/static/images/refresh/cross-platform.svg height="200" width="200" style="border-radius:60%" />
 </div>
  
  
