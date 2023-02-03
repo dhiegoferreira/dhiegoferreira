@@ -1,4 +1,4 @@
-### Olá, seja bem vindo(a)!! 😆👋
+### Hi, Welcome!! 😆👋
 
 <!-- Remember that:  GitHub converts the README Markdown to HTML and renders it on GitHub. -->
 
@@ -23,18 +23,12 @@
     
 
 ---
-<h3> 👨‍💻 Sobre mim: </h3> 
+<h3> 👨‍💻 About me: </h3> 
 
-#### Me chamo Dhiego Ferreira, tenho 21 anos e busco constantemente evoluir como programador. Sou curioso, amo aprender coisas novas e compartilhar conhecimentos já adquiridos.
-<!--
-   -  &nbsp;💻 &nbsp;&nbsp;&nbsp;Estagiário de Desenvolvimento de Software 
-   -  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736" height="30" width="30"> &nbsp; Atualmente estudando e desenvolvendo projetos/trabalhos com a linguagem C# junto ao cabedal de ferramentas da plataforma .NET 
-   
-   - &nbsp; <img src="https://freepngimg.com/thumb/symbol/24740-7-pi-symbol-image.png" height="15" width="15" > &nbsp;&nbsp;&nbsp; Fascinado pela rainha das ciências, a Matemática.
-   -->
+#### My name is Dhiego Ferreira, I am 21 years old and I am constantly seeking to evolve as a programmer. I am curious, love to learn new things and share the knowledge already acquired.
 
 
-<h3> 🧰 Caixa de Ferramentas </h3>
+<h3> 🧰 Tools </h3>
   
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt"CSharp" width="40" height="40" />&nbsp;&nbsp;
