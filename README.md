@@ -2,23 +2,6 @@
 
 <!-- Remember that:  GitHub converts the README Markdown to HTML and renders it on GitHub. -->
 
-<div id="header" align="center">
-  <img src=https://dotnet.microsoft.com/static/images/refresh/cross-platform.svg height="200" width="200" style="border-radius:60%" />
-</div>
- 
- 
-<div id="badges" align="center">
-  <a href="https://linkedin.com/in/dhiegoferreira">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>  
-  <a href="">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>  
-  <a href="https://twitter.com/DhiegoFerreir13">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-</div>
 
     
 
