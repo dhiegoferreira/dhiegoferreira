@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhiego Ferreira</h1>
 
-- 🔭 I’m currently working as **Back-End Developer** at Avanade
+- 🔭 I’m currently working as **Back-End Developer** 
 
 - 🌱 I’m currently learning **Go, TypeScript, React**
 
